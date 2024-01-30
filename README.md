@@ -1,7 +1,6 @@
 # 3D Collab - Android Bootcamp
 
-Hello there! 👋 Welcome to the 3D Collab GitHub repository, where we dive into the world of Android app development. This repository contains the materials and code for the Dark-Light mode basic application that we built during the GDSC 2 Days Android Bootcamp.
-
+Hello there! 👋 
 ## About
 
 This repository is part of the Discover Design Develop (3D) Campaign organized under GDSC AISSMS IOIT. In this 2-day bootcamp, I had the pleasure of guiding beginners in creating a hands-on Dark-Light mode application using Kotlin.
